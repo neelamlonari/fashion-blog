@@ -11,7 +11,7 @@ function App() {
       <Article/>
       <Footer/>
     </div>
-  );
+);
 }
 
 export default App;
